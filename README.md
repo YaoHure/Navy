@@ -1,2 +1,2 @@
 # Navy
-A kind of battleship game but on two terminales.
+A kind of battleship game in c programing.
