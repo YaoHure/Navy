@@ -1,2 +1,2 @@
 # Navy
-Battleship game on two terminal.
+A kind of battleship game but on two terminales.
