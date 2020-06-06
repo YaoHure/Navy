@@ -1,2 +1,2 @@
 # Navy
-Battleship game
+Battleship game on two terminal.
